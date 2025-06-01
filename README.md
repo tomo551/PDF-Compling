@@ -46,7 +46,7 @@ PDF Compling — PDF まとめ
 
 ### MSIインストーラーを使用する場合（推奨）
 
-1. [リリースページ](https://github.com/your-username/pdf-compling/releases)から最新版の`PDF_Compling_Setup.msi`をダウンロード
+1. [リリースページ](https://github.com/tomo551/PDF-Compling/tree/master/PDF%20Compling%20Setup)から最新版の`PDF_Compling_Setup.msi`をダウンロード
 2. ダウンロードしたMSIファイルをダブルクリック
 3. インストールウィザードの指示に従ってインストールを完了
 4. デスクトップまたはスタートメニューからアプリケーションを起動
